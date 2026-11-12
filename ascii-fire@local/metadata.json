@@ -1,0 +1,7 @@
+{
+  "uuid": "ascii-fire@local",
+  "name": "ASCII Fire Wallpaper",
+  "description": "Live wallpaper: ASCII fire that lights up when you hover the centre of the desktop.",
+  "shell-version": ["50"],
+  "version": 1
+}
